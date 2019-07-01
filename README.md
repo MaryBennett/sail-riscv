@@ -1,6 +1,11 @@
 RISCV Sail Model
 ================
 
+This is a fork of the RISC-V Sail model by the REMS team. This repository will:
+
+ * add a CGEN make target
+ * add a CGEN backend
+
 This repository contains a model of the RISCV architecture written in
 [Sail](https://www.cl.cam.ac.uk/~pes20/sail/). It used to be contained
 in the [Sail repository](https://github.com/rems-project/sail).
